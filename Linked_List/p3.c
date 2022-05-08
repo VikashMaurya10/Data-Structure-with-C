@@ -53,7 +53,7 @@ void create_node()
             temp->link = new_node;
             temp = new_node;
         }
-        printf("Enter to continuem 1 otherwise 0: ");
+        printf("Enter to continue 1 otherwise 0: ");
         if (scanf("%d", &i) != 1)
         {
             break;
