@@ -57,7 +57,7 @@ void main()
             delete_node_at_end();
             break;
         case 10:
-            printf("\n-----Exited!-----\n");
+            printf("\n-----Exited!-----\n\n");
             break;
         default:
             printf("\nPlease choose default option!..\n");
